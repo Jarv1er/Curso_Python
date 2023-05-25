@@ -1,2 +1,2 @@
-# flask
-Aplicaciones web con Flask: Python
+# Python
+Curso de Python Getafe
